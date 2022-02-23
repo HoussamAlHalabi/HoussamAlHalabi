@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Houssam Al Halabi, a Junior Full-Stack Developer and IT Specialist. In 2019, I graduated with a bachelor's degree in Information Technology and am now pursuing postgraduate studies in Management as a Master of Business Administration student with a 3.60 GPA.
+🎓 I am Houssam Al Halabi, a Junior Full-Stack Developer and IT Specialist. Holder for a bachelor's degree in Information Technology, and am currently pursuing postgraduate studies in management as a Master of Business Administration student.
 
 👨‍💻 I recently completed an 8-month apprenticeship training program in Full-Stack Development at "Codi Bootcamp". As a result, I'm now a certified Full-Stack Developer!
 
